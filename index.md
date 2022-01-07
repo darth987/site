@@ -8,6 +8,6 @@ Discord Nametag : SiDermath#9522
 <html>
   <head></head>
 <body>
-<img src=R.gif>
+<img src="R.gif">
   </body>
 </html>
